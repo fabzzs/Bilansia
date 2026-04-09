@@ -42,7 +42,7 @@ Vous pouvez tester la puissance d'analyse de Bilansia de trois manières différ
 
 **Avec vos propres données :** Importez n'importe quel FEC (Fichier des Écritures Comptables) au format .csv / .txt ou une liasse fiscale (Bilan/Compte de Résultat) au format .pdf.
 
-**Via le fichier de démonstration :** Pour une prise en main rapide, un fichier de test nommé fec_test_demo.txt est disponible à la racine de ce repository. Téléchargez-le et glissez-le dans l'interface pour voir les alertes s'activer.
+**Via le fichier de démonstration :** Pour une prise en main rapide, un fichier de test nommé **Fec_test_demo.txt** est disponible à la racine de ce repository. Téléchargez-le et glissez-le dans l'interface pour voir les alertes s'activer.
 
 **Interrogation IA (ARIS) :** Une fois les données chargées, rendez-vous dans l'onglet Assistant IA pour poser des questions complexes (ex: "Analyse la solvabilité à court terme" ou "Y a-t-il des anomalies dans les écritures de caisse ?").
 
