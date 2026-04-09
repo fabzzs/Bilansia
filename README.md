@@ -44,8 +44,8 @@ Lancer l'application : streamlit run scanner_gestion.py
 
 Vous pouvez tester la puissance d'analyse de Bilansia de trois manières différentes :
 
-⚠️ Note sur la performance (Hébergement)
-L'application est actuellement hébergée sur l'offre "Free Tier" de Render. En conséquence l'application nécessite environ 45 secondes pour s'initialiser au premier lancement et peut présenter une légère latence lors du traitement de fichiers volumineux.
+*⚠️ Note sur la performance (Hébergement)
+L'application est actuellement hébergée sur l'offre "Free Tier" de Render. En conséquence l'application nécessite environ 45 secondes pour s'initialiser au premier lancement et peut présenter une légère latence lors du traitement de fichiers volumineux.*
 
 **Avec vos propres données :** Importez n'importe quel FEC (Fichier des Écritures Comptables) au format .csv / .txt ou une liasse fiscale (Bilan/Compte de Résultat) au format .pdf.
 
